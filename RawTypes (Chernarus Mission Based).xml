@@ -8,7 +8,7 @@
 
 <!-- CROSSBOWS -->
 
-    <type name="Asmond_Crossbow_White">
+    <type name="Asmond_Crossbow_Winter">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -71,6 +71,23 @@
     </type>
 
     <type name="Asmond_CZ75_Wooden">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>30</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Police"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+
+    <type name="Asmond_CZ75_Silver">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -428,6 +445,20 @@
         <value name="Tier3"/>
     </type>
 
+    <type name="Asmond_AKS74U_Winter">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>30</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+
     <type name="Asmond_AUGShort_Green">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
@@ -589,7 +620,7 @@
         <value name="Tier3"/>
     </type>
 
-    <type name="Asmond_UMP45_White">
+    <type name="Asmond_UMP45_Winter">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -619,7 +650,7 @@
         <value name="Tier4"/>
     </type>
 
-    <type name="Asmond_Vikhr_White">
+    <type name="Asmond_Vikhr_Winter">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -632,6 +663,21 @@
         <usage name="Military"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
+    </type>
+
+    <type name="Asmond_PM73Rak_Black">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Police"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
 
 
@@ -977,6 +1023,20 @@
         <value name="Tier4"/>
     </type>
 
+    <type name="Asmond_AKM_Winter">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>30</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+
     <type name="Asmond_ASVAL_Red">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
@@ -1048,7 +1108,7 @@
         <value name="Tier4"/>
     </type>
 
-    <type name="Asmond_VSS_White">
+    <type name="Asmond_VSS_Winter">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -1171,6 +1231,19 @@
         <usage name="ContaminatedArea"/>
     </type>
 
+    <type name="Asmond_FAL_Winter">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>30</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="ContaminatedArea"/>
+    </type>
+
     <type name="Asmond_M4A1_Tan">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
@@ -1236,7 +1309,7 @@
         <usage name="ContaminatedArea"/>
     </type>
 
-    <type name="Asmond_M16A2_White">
+    <type name="Asmond_M16A2_Winter">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -1485,6 +1558,21 @@
         <value name="Tier4"/>
     </type>
 
+    <type name="Asmond_SKS_Winter">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>25</quantmin>
+        <quantmax>75</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+
 <!-- SNIPER RIFLES -->
 
     <type name="Asmond_B95_Wood">
@@ -1571,7 +1659,53 @@
         <category name="weapons"/>
     </type>
 
+    <type name="Asmond_B95_Winter">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>0</quantmin>
+        <quantmax>75</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Hunting"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+
+    <type name="Asmond_SawoffB95_Winter">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="weapons"/>
+    </type>
+
     <type name="Asmond_CZ527_Camo">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>30</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+
+    <type name="Asmond_CZ527_Winter">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -1640,7 +1774,38 @@
         <value name="Tier4"/>
     </type>
 
-    <type name="Asmond_CZ550_Blooded">
+
+    <type name="Asmond_CZ550_Green">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>30</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Hunting"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+
+    <type name="Asmond_CZ550_Black">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>30</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Hunting"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+
+    <type name="Asmond_CZ550_Winter">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -1697,7 +1862,7 @@
         <value name="Tier4"/>
     </type>
 
-    <type name="Asmond_M14_White">
+    <type name="Asmond_M14_Winter">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
@@ -1815,7 +1980,7 @@
         <category name="weapons"/>
     </type>
 
-    <type name="Asmond_Mosin9130_White">
+    <type name="Asmond_Mosin9130_Winter">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -1833,7 +1998,7 @@
         <value name="Tier4"/>
     </type>
 
-    <type name="Asmond_SawedoffMosin9130_White">
+    <type name="Asmond_SawedoffMosin9130_Winter">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -2041,6 +2206,21 @@
     </type>
 
     <type name="Asmond_Winchester70_RedWood">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>25</quantmin>
+        <quantmax>75</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Hunting"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+
+    <type name="Asmond_Winchester70_Winter>
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -2283,6 +2463,45 @@
   </type>
 
   <type name="Asmond_AK_AKS74UBttstck_Black">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+
+  <type name="Asmond_AK_AKS74UBttstck_Winter">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+
+  <type name="Asmond_AK_RailHndgrd_Winter">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+
+  <type name="Asmond_AK_FoldingBttstck_Winter">
     <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>3600</restock>
@@ -2647,6 +2866,19 @@
   </type>
 
   <type name="Asmond_FAL_Buttstock_LightWood">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+
+  <type name="Asmond_FAL_Buttstock_Winter">
     <nominal>0</nominal>
     <lifetime>7200</lifetime>
     <restock>3600</restock>
@@ -3100,6 +3332,48 @@
         <min>0</min>
         <quantmin>5</quantmin>
         <quantmax>50</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+    </type>
+
+    <type name="Asmond_Mag_AKM_30Rnd_Winter">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>5</quantmin>
+        <quantmax>50</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+
+    <type name="Asmond_Mag_AKM_Palm30Rnd_Winter">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>5</quantmin>
+        <quantmax>50</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+
+    <type name="Asmond_Mag_AKM_Drum75Rnd_Winter">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>5</quantmin>
+        <quantmax>40</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
