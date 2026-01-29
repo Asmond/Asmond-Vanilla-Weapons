@@ -741,8 +741,8 @@
         <item name="AK_RailHndgrd" chance="1.00"/>
         </attachments>
         <attachments chance="0.60">
-        <item name="Asmond_Mag_AKM_30Rnd_Winter" chance="5.00"/>
-        <item name="Asmond_Mag_AKM_Palm30Rnd_Winter" chance="5.00"/>
+        <item name="Asmond_Mag_AKM_30Rnd_Winter" chance="0.50"/>
+        <item name="Asmond_Mag_AKM_Palm30Rnd_Winter" chance="0.50"/>
         </attachments>
         <attachments chance="0.20">
         <item name="PSO6Optic" chance="0.25"/>
