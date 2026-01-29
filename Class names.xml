@@ -1,7 +1,7 @@
 //////////// 1) ASMOND WEAPONS TYPE NAMES //////////////
 
 ################## CROSSBOWS ########################
-Asmond_Crossbow_White
+Asmond_Crossbow_Winter
 Asmond_Crossbow_Camo
 
 ################## PISTOLS ###########################
@@ -9,6 +9,7 @@ Asmond_1911_Malvinas
 Asmond_1911_Black
 -------------------------
 Asmond_CZ75_Wooden
+Asmond_CZ75_Silver
 -------------------------
 Asmond_Deagle_Beige
 Asmond_Deagle_Black
@@ -42,6 +43,7 @@ Asmond_P1_Black
 ################## SMGs ###########################
 Asmond_AKS74U_Black
 Asmond_AKS74U_Grey
+Asmond_AKS74U_Winter
 -------------------------
 Asmond_AUGShort_Green
 Asmond_AUGShort_Grey
@@ -58,10 +60,12 @@ Asmond_MP5K_Sand
 Asmond_UMP45_Sand
 Asmond_UMP45_Green
 Asmond_UMP45_Grey
-Asmond_UMP45_White
+Asmond_UMP45_Winter
 -------------------------
 Asmond_Vikhr_Red
-Asmond_Vikhr_White
+Asmond_Vikhr_Winter
+-------------------------
+Asmond_PM73Rak_Black
 
 ################## SHOTGUNS #######################
 Asmond_IZH18Shotgun_RedWood
@@ -87,6 +91,7 @@ Asmond_Saiga_Red
 Asmond_AK74_Black
 Asmond_AK74_Combatant
 Asmond_AK74_Rusted
+Asmond_AK74_Winter
 ----------------------
 Asmond_AK101_Black
 Asmond_AK101_Grey
@@ -96,6 +101,7 @@ Asmond_AK101_Winter
 Asmond_AKM_Black
 Asmond_AKM_Camo
 Asmond_AKM_Grey
+Asmond_AKM_Winter
 ----------------------
 Asmond_ASVAL_Red
 Asmond_ASVAL_Grey
@@ -109,6 +115,7 @@ Asmond_AUG_Grey
 Asmond_FAL_DarkWood
 Asmond_FAL_LightWood
 Asmond_FAL_Moss
+Asmond_FAL_Winter
 ----------------------
 Asmond_M4A1_Camo
 Asmond_M4A1_Dark
@@ -119,11 +126,11 @@ Asmond_M4A1_Winter
 Asmond_M16A2_Purple
 Asmond_M16A2_Tan
 Asmond_M16A2_Wooden
-Asmond_M16A2_White
+Asmond_M16A2_Winter
 ----------------------
 Asmond_VSS_Black
 Asmond_VSS_Stalker
-Asmond_VSS_White
+Asmond_VSS_Winter
 Asmond_VSS_Yellow
 
 ################## GENERAL RIFLES ###################
@@ -143,7 +150,7 @@ Asmond_SKS_Old
 Asmond_SKS_Lightwood
 Asmond_SKS_RedWood
 Asmond_SKS_Green
-
+Asmond_SKS_Winter
 ################## SNIPER RIFLES ###################
 Asmond_B95_Wood
 Asmond_SawoffB95_Wood
@@ -151,18 +158,23 @@ Asmond_B95_Dark
 Asmond_SawoffB95_Dark
 Asmond_B95_Moss
 Asmond_SawoffB95_Moss
+Asmond_B95_Winter
+Asmond_SawoffB95_Winter
 ----------------------
 Asmond_CZ527_Black
 Asmond_CZ527_Brown
 Asmond_CZ527_Camo
+Asmond_CZ527_Winter
 ----------------------
+Asmond_CZ550_Black
 Asmond_CZ550_Brown
-Asmond_CZ550_Blooded
+Asmond_CZ550_Green
+Asmond_CZ550_Winter
 ----------------------
 Asmond_M14_Black
 Asmond_M14_Tan
 Asmond_M14_Camo
-Asmond_M14_White
+Asmond_M14_Winter
 Asmond_M14_Wooden
 ----------------------------------
 Asmond_Mosin9130_Dark
@@ -171,8 +183,8 @@ Asmond_Mosin9130_BrownCamo
 Asmond_SawedoffMosin9130_BrownCamo
 Asmond_Mosin9130_RedWood
 Asmond_SawedoffMosin9130_RedWood
-Asmond_Mosin9130_White
-Asmond_SawedoffMosin9130_White
+Asmond_Mosin9130_Winter
+Asmond_SawedoffMosin9130_Winter
 -------------------
 Asmond_Scout_Grey
 Asmond_Scout_Beige
@@ -193,6 +205,7 @@ Asmond_Winchester70_Black
 Asmond_Winchester70_Beige
 Asmond_Winchester70_Green
 Asmond_Winchester70_RedWood
+Asmond_Winchester70_Winter
 
 ############### GRENADE LAUNCHERS ################
 Asmond_M79_Polymer
@@ -213,7 +226,11 @@ Asmond_AK_PlasticBttstck_Camo
 Asmond_AK_PlasticHndgrd_Wine
 Asmond_AK_PlasticBttstck_Wine
 --------------------------------
+Asmond_AK_FoldingBttstck_Winter
+Asmond_AK_RailHndgrd_Winter
+--------------------------------
 Asmond_AK_AKS74UBttstck_Black
+Asmond_AK_AKS74UBttstck_Winter
 --------------------------------
 Asmond_AK_WoodHndgrd_LightWood
 Asmond_AK_WoodBttstck_LightWood
@@ -232,6 +249,7 @@ Asmond_PP19_Buttstock_Black
 Asmond_FAL_Buttstock_DarkWood
 Asmond_FAL_Buttstock_Moss
 Asmond_FAL_Buttstock_LightWood
+Asmond_FAL_Buttstock_Winter
 --------------------------------
 Asmond_M4_PlasticHndgrd_Tan
 Asmond_M4_PlasticHndgrd_Green
@@ -289,6 +307,10 @@ Asmond_Mag_AK74_30Rnd_Green
 Asmond_Mag_AK101_30Rnd_Black
 Asmond_Mag_AK101_30Rnd_Winter
 Asmond_Mag_AK101_30Rnd_Tan
+----------------------------
+Asmond_Mag_AKM_30Rnd_Winter
+Asmond_Mag_AKM_Palm30Rnd_Winter
+Asmond_Mag_AKM_Drum75Rnd_Winter
 ----------------------------
 Asmond_Mag_PP19_Black
 
