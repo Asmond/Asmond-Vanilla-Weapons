@@ -1,4 +1,8 @@
+
+////////////////////////////////////////////////////////
 //////////// 1) ASMOND WEAPONS TYPE NAMES //////////////
+////////////////////////////////////////////////////////
+
 
 ################## CROSSBOWS ########################
 Asmond_Crossbow_Winter
@@ -47,6 +51,8 @@ Asmond_AKS74U_Winter
 -------------------------
 Asmond_AUGShort_Green
 Asmond_AUGShort_Grey
+Asmond_AUGShort_Black
+Asmond_AUGShort_Beige
 -------------------------
 Asmond_PP19_Black
 Asmond_PP19_Red
@@ -56,6 +62,7 @@ Asmond_CZ61_Sand
 -------------------------
 Asmond_MP5K_Light
 Asmond_MP5K_Sand
+Asmond_MP5K_Black
 -------------------------
 Asmond_UMP45_Sand
 Asmond_UMP45_Green
@@ -92,6 +99,7 @@ Asmond_AK74_Black
 Asmond_AK74_Combatant
 Asmond_AK74_Rusted
 Asmond_AK74_Winter
+Asmond_AK74_Desert
 ----------------------
 Asmond_AK101_Black
 Asmond_AK101_Grey
@@ -107,21 +115,27 @@ Asmond_ASVAL_Red
 Asmond_ASVAL_Grey
 Asmond_ASVAL_Moss
 Asmond_ASVAL_Stalker
+Asmond_ASVAL_Loner
 ----------------------
 Asmond_AUG_Green
 Asmond_AUG_Beige
 Asmond_AUG_Grey
+Asmond_AUG_Black
 ----------------------
 Asmond_FAL_DarkWood
 Asmond_FAL_LightWood
 Asmond_FAL_Moss
 Asmond_FAL_Winter
 ----------------------
+Asmond_FAMAS_Black
+Asmond_SawedoffFAMAS_Black
+----------------------
 Asmond_M4A1_Camo
 Asmond_M4A1_Dark
 Asmond_M4A1_Tan
 Asmond_M4A1_Green
 Asmond_M4A1_Winter
+Asmond_M4A1_Desert
 ----------------------
 Asmond_M16A2_Purple
 Asmond_M16A2_Tan
@@ -151,6 +165,7 @@ Asmond_SKS_Lightwood
 Asmond_SKS_RedWood
 Asmond_SKS_Green
 Asmond_SKS_Winter
+
 ################## SNIPER RIFLES ###################
 Asmond_B95_Wood
 Asmond_SawoffB95_Wood
@@ -193,6 +208,7 @@ Asmond_Scout_Wooden
 --------------------
 Asmond_SSG82_Black
 Asmond_SSG82_Winter
+Asmond_SSG82_RedWood
 --------------------
 Asmond_SV98_Black
 Asmond_SV98_Winter
@@ -200,6 +216,8 @@ Asmond_SV98_Wooden
 --------------------
 Asmond_SVD_Winter
 Asmond_SVD_RedWood
+Asmond_SVD_Yellow
+Asmond_SVD_Camo
 ----------------------------
 Asmond_Winchester70_Black
 Asmond_Winchester70_Beige
@@ -212,11 +230,18 @@ Asmond_M79_Polymer
 Asmond_M79_Green
 
 
+
+//////////////////////////////////////////////////////////// 
 //////////// 2) ASMOND ATTACHMENTS TYPE NAMES //////////////
+//////////////////////////////////////////////////////////// 
+
+############### SUPPORT/BUTTSTOCKS/HANDGUARDS ################
 Asmond_AK_PlasticHndgrd_Black
 Asmond_AK_PlasticBttstck_Black
 Asmond_AK_PlasticHndgrd_Winter
 Asmond_AK_PlasticBttstck_Winter
+Asmond_AK_PlasticHndgrd_Green
+Asmond_AK_PlasticBttstck_Green
 Asmond_AK_PlasticHndgrd_Tan
 Asmond_AK_PlasticBttstck_Tan
 Asmond_AK_PlasticHndgrd_Grey
@@ -229,11 +254,16 @@ Asmond_AK_PlasticBttstck_Wine
 Asmond_AK_FoldingBttstck_Winter
 Asmond_AK_RailHndgrd_Winter
 --------------------------------
+Asmond_AK_RailHndgrd_Green
+Asmond_AK_FoldingBttstck_Green
+--------------------------------
 Asmond_AK_AKS74UBttstck_Black
 Asmond_AK_AKS74UBttstck_Winter
 --------------------------------
 Asmond_AK_WoodHndgrd_LightWood
 Asmond_AK_WoodBttstck_LightWood
+Asmond_AK_WoodHndgrd_DarkWood
+Asmond_AK_WoodBttstock_DarkWood
 Asmond_AK_WoodHndgrd_Yellow
 Asmond_AK_WoodBttstck_Yellow
 Asmond_AK_WoodHndgrd_LightBrown
@@ -279,10 +309,13 @@ Asmond_M4_CQBBttstck_Black
 Asmond_Saiga_Red_Bttstck
 ----------------------------
 Asmond_MP5K_Bttstck_Sand
+Asmond_MP5K_Bttstck_Black
 Asmond_MP5K_PlasticHndgrd_Sand
+Asmond_MP5K_PlasticHndgrd_Black
+Asmond_MP5K_RailHndgrd_Black
+Asmond_MP5K_RailHndgrd_Sand
 
-
-//////////// 3) ASMOND MAGAZINES TYPE NAMES //////////////
+############### MAGAZINES ################
 Asmond_Mag_M4A1_10Rnd_Tan
 Asmond_Mag_M4A1_10Rnd_Green
 Asmond_Mag_M4A1_20Rnd_Tan
@@ -299,18 +332,43 @@ Asmond_Mag_Vikhr_30Rnd_Red
 Asmond_Mag_VSS_10Rnd_Red
 ----------------------------
 Asmond_Mag_AK74_45Rnd_Black
+Asmond_Mag_AK74_45Rnd_Black_Taped
 Asmond_Mag_AK74_30Rnd_Black
 Asmond_Mag_AK74_30Rnd_Tan
 Asmond_Mag_AK74_30Rnd_Camo
 Asmond_Mag_AK74_30Rnd_Green
+Asmond_Mag_AK74_30Rnd_Winter
 ----------------------------
 Asmond_Mag_AK101_30Rnd_Black
 Asmond_Mag_AK101_30Rnd_Winter
 Asmond_Mag_AK101_30Rnd_Tan
 ----------------------------
 Asmond_Mag_AKM_30Rnd_Winter
+Asmond_Mag_AKM_30Rnd_Green
 Asmond_Mag_AKM_Palm30Rnd_Winter
+Asmond_Mag_AKM_Palm30Rnd_Green
 Asmond_Mag_AKM_Drum75Rnd_Winter
+Asmond_Mag_AKM_Drum75Rnd_Green
 ----------------------------
 Asmond_Mag_PP19_Black
+----------------------------
+Asmond_Mag_FAMAS_25Rnd_Black
 
+############### SUPPRESORS ################
+Asmond_Suppressor_EAST_Black
+Asmond_Suppressor_EAST_Winter
+Asmond_Suppressor_NATO_Black
+Asmond_Suppressor_NATO_Green
+Asmond_Suppressor_NATO_Tan
+Asmond_Suppressor_NATO_Winter
+Asmond_Suppressor_Pistol_Black
+Asmond_Suppressor_Pistol_Tan
+
+############### OPTICS ################
+Asmond_Optic_PSO1_Black
+Asmond_Optic_PSO11_Black
+Asmond_Optic_Reflex_Black
+Asmond_Optic_Reflex_Tan
+Asmond_Optic_MiniSight_Black
+Asmond_Optic_MiniSight_Tan
+Asmond_Optic_MK4_Winter
