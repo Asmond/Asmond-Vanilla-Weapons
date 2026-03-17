@@ -75,7 +75,7 @@ I usually go by **“Asmond”** on most DayZ community Discord servers.
 
 I’m currently working on a **Vanilla Clothing Retexture Mod** with the same philosophy and level of detail.
 
-- 📷 Preview: https://imgur.com/a/tLXwcye | https://ibb.co/album/4gCmtS (Alternative link)
+- 📷 Preview: https://ibb.co/album/4gCmtS
 - 🐦 Development updates on X/Twitter: https://x.com/AsmondianA
 - 💬 Also shared in the **DayZ Modders Discord**
 
