@@ -1223,22 +1223,37 @@
 
     <type name="Asmond_M16A2_Purple">
     <attachments chance="0.40">
-            <item name="Mag_CMAG_10Rnd" chance="0.70"/>
-            <item name="Mag_CMAG_20Rnd" chance="0.30"/>
+            <item name="Mag_CMAG_10Rnd" chance="0.25"/>
+            <item name="Mag_CMAG_20Rnd" chance="0.25"/>
+            <item name="Mag_CMAG_30Rnd" chance="0.25"/>
+            <item name="Mag_CMAG_40Rnd" chance="0.25"/>
         </attachments>
     </type>
 
     <type name="Asmond_M16A2_Winter">
     <attachments chance="0.40">
-            <item name="Mag_CMAG_10Rnd" chance="0.70"/>
-            <item name="Mag_CMAG_20Rnd" chance="0.30"/>
+            <item name="Mag_CMAG_10Rnd" chance="0.25"/>
+            <item name="Mag_CMAG_20Rnd" chance="0.25"/>
+            <item name="Mag_CMAG_30Rnd" chance="0.25"/>
+            <item name="Mag_CMAG_40Rnd" chance="0.25"/>
         </attachments>
     </type>
 
     <type name="Asmond_M16A2_Wooden">
     <attachments chance="0.40">
-            <item name="Mag_CMAG_10Rnd" chance="0.70"/>
-            <item name="Mag_CMAG_20Rnd" chance="0.30"/>
+            <item name="Mag_CMAG_10Rnd" chance="0.25"/>
+            <item name="Mag_CMAG_20Rnd" chance="0.25"/>
+            <item name="Mag_CMAG_30Rnd" chance="0.25"/>
+            <item name="Mag_CMAG_40Rnd" chance="0.25"/>
+        </attachments>
+    </type>
+
+    <type name="Asmond_M16A2_Camo">
+    <attachments chance="0.40">
+            <item name="Mag_CMAG_10Rnd" chance="0.25"/>
+            <item name="Mag_CMAG_20Rnd" chance="0.25"/>
+            <item name="Mag_CMAG_30Rnd" chance="0.25"/>
+            <item name="Mag_CMAG_40Rnd" chance="0.25"/>
         </attachments>
     </type>
 
