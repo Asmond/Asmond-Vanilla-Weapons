@@ -3480,120 +3480,6 @@
     <usage name="Military"/>
   </type>
 
-<!-- SUPPRESSORS -->
-
-    <type name="Asmond_Suppressor_NATO_Black">
-        <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>3600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <tag name="shelves"/>
-        <usage name="ContaminatedArea"/>
-    </type>
-
-    <type name="Asmond_Suppressor_NATO_Green">
-        <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>3600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <tag name="shelves"/>
-        <usage name="ContaminatedArea"/>
-    </type>
-
-    <type name="Asmond_Suppressor_NATO_Tan">
-        <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>3600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <tag name="shelves"/>
-        <usage name="ContaminatedArea"/>
-    </type>
-
-    <type name="Asmond_Suppressor_NATO_Winter">
-        <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>3600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <tag name="shelves"/>
-        <usage name="ContaminatedArea"/>
-    </type>
-
-    <type name="Asmond_Suppressor_EAST_Black">
-        <nominal>0</nominal>
-        <lifetime>9800</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <tag name="shelves"/>
-        <usage name="ContaminatedArea"/>
-    </type>
-
-    <type name="Asmond_Suppressor_EAST_Winter">
-        <nominal>0</nominal>
-        <lifetime>9800</lifetime>
-        <restock>1800</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <tag name="shelves"/>
-        <usage name="ContaminatedArea"/>
-    </type>
-
-    <type name="Asmond_Suppressor_Pistol_Black">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-    </type>
-
-    <type name="Asmond_Suppressor_Pistol_Tan">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-    </type>
-
 <!-- MAGAZINES -->
 
     <type name="Asmond_Mag_M4A1_10Rnd_Tan">
@@ -4057,6 +3943,122 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
+
+
+<!-- SUPPRESSORS -->
+
+    <type name="Asmond_Suppressor_NATO_Black">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="ContaminatedArea"/>
+    </type>
+
+    <type name="Asmond_Suppressor_NATO_Green">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="ContaminatedArea"/>
+    </type>
+
+    <type name="Asmond_Suppressor_NATO_Tan">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="ContaminatedArea"/>
+    </type>
+
+    <type name="Asmond_Suppressor_NATO_Winter">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="ContaminatedArea"/>
+    </type>
+
+    <type name="Asmond_Suppressor_EAST_Black">
+        <nominal>0</nominal>
+        <lifetime>9800</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="ContaminatedArea"/>
+    </type>
+
+    <type name="Asmond_Suppressor_EAST_Winter">
+        <nominal>0</nominal>
+        <lifetime>9800</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="ContaminatedArea"/>
+    </type>
+
+    <type name="Asmond_Suppressor_Pistol_Black">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+    </type>
+
+    <type name="Asmond_Suppressor_Pistol_Tan">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+    </type>
+
 
 <!-- OPTICS -->
 
