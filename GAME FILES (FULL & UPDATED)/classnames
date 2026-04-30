@@ -9,6 +9,7 @@ Asmond_Crossbow_Camo
 ################## PISTOLS ###########################
 Asmond_1911_Malvinas
 Asmond_1911_Black
+Asmond_1911_YellowKing
 -------------------------
 Asmond_CZ75_Wooden
 Asmond_CZ75_Silver
@@ -357,6 +358,9 @@ Asmond_Mag_AKM_Drum75Rnd_Green
 Asmond_Mag_PP19_Black
 ----------------------------
 Asmond_Mag_FAMAS_25Rnd_Black
+----------------------------
+Asmond_Mag_1911_7Rnd_Black
+Asmond_Mag_1911_7Rnd_Gold
 
 ############### SUPPRESORS ################
 Asmond_Suppressor_EAST_Black
