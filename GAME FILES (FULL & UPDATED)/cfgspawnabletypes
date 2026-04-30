@@ -21,12 +21,25 @@
 
     <type name="Asmond_1911_Black">
         <attachments chance="0.80">
-            <item name="Mag_1911_7Rnd" chance="1.00"/>
+            <item name="Asmond_Mag_1911_7Rnd_Black" chance="1.00"/>
         </attachments>
-        <attachments chance="0.50">
+        <attachments chance="0.10">
             <item name="TLRLight" chance="1.00"/>
         </attachments>
-        <attachments chance="0.50">
+        <attachments chance="0.10">
+            <item name="PistolSuppressor" chance="0.50"/>
+            <item name="Asmond_Suppressor_Pistol_Black" chance="0.50"/>
+        </attachments>
+    </type>
+
+    <type name="Asmond_1911_YellowKing">
+        <attachments chance="1.00">
+            <item name="Asmond_Mag_1911_7Rnd_Gold" chance="1.00"/>
+        </attachments>
+        <attachments chance="0.10">
+            <item name="TLRLight" chance="1.00"/>
+        </attachments>
+        <attachments chance="0.10">
             <item name="PistolSuppressor" chance="0.50"/>
             <item name="Asmond_Suppressor_Pistol_Black" chance="0.50"/>
         </attachments>
