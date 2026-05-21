@@ -6,6 +6,7 @@
 Asmond_Crossbow_Winter
 Asmond_Crossbow_Camo
 
+
 ################## PISTOLS ###########################
 Asmond_1911_Malvinas
 Asmond_1911_Black
@@ -76,6 +77,7 @@ Asmond_Vikhr_Winter
 -------------------------
 Asmond_PM73Rak_Black
 
+
 ################## SHOTGUNS #######################
 Asmond_IZH18Shotgun_RedWood
 Asmond_SawedoffIzh18Shotgun_RedWood
@@ -93,8 +95,10 @@ Asmond_MP133_RedWood
 -----------------------------------
 Asmond_R12_Wooden
 Asmond_R12_RedWood
+Asmond_R12_SledgeHammer
 -----------------------------------
 Asmond_Saiga_Red
+
 
 ################## AUTOMATIC RIFLES #################
 Asmond_AK74_Black
@@ -150,6 +154,7 @@ Asmond_VSS_Stalker
 Asmond_VSS_Winter
 Asmond_VSS_Yellow
 
+
 ################## GENERAL RIFLES ###################
 Asmond_IZH18Rifle_Black
 Asmond_SawedoffIzh18_Black
@@ -168,6 +173,7 @@ Asmond_SKS_Lightwood
 Asmond_SKS_RedWood
 Asmond_SKS_Green
 Asmond_SKS_Winter
+
 
 ################## SNIPER RIFLES ###################
 Asmond_B95_Wood
@@ -318,6 +324,7 @@ Asmond_MP5K_PlasticHndgrd_Black
 Asmond_MP5K_RailHndgrd_Black
 Asmond_MP5K_RailHndgrd_Sand
 
+
 ############### MAGAZINES ################
 Asmond_Mag_M4A1_10Rnd_Tan
 Asmond_Mag_M4A1_10Rnd_Green
@@ -361,6 +368,11 @@ Asmond_Mag_FAMAS_25Rnd_Black
 ----------------------------
 Asmond_Mag_1911_7Rnd_Black
 Asmond_Mag_1911_7Rnd_Gold
+----------------------------
+Asmond_Mag_UMP_25Rnd_Green
+Asmond_Mag_UMP_25Rnd_Winter
+Asmond_Mag_UMP_25Rnd_Sand
+
 
 ############### SUPPRESORS ################
 Asmond_Suppressor_EAST_Black
@@ -372,7 +384,9 @@ Asmond_Suppressor_NATO_Winter
 Asmond_Suppressor_Pistol_Black
 Asmond_Suppressor_Pistol_Tan
 
+
 ############### OPTICS ################
+Asmond_Optic_PUScope_White
 Asmond_Optic_PSO1_Black
 Asmond_Optic_PSO11_Black
 Asmond_Optic_Reflex_Black
