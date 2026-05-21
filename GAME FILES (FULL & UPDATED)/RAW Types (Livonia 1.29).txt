@@ -889,6 +889,21 @@
         <value name="Tier3"/>
     </type>
 
+<type name="Asmond_R12_SledgeHammer">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>20</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Police"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+
 <type name="Asmond_Saiga_Red">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
@@ -3394,6 +3409,51 @@
 
 <!-- MAGAZINES -->
 
+    <type name="Asmond_Mag_UMP_25Rnd_Green">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>5</quantmin>
+        <quantmax>50</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+
+    <type name="Asmond_Mag_UMP_25Rnd_Winter">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>5</quantmin>
+        <quantmax>50</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+
+    <type name="Asmond_Mag_UMP_25Rnd_Sand">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>5</quantmin>
+        <quantmax>50</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+    </type>
+
     <type name="Asmond_Mag_M4A1_10Rnd_Tan">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
@@ -3951,8 +4011,21 @@
 
 <!-- OPTICS -->
 
+    <type name="Asmond_Optic_PUScope_White">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <usage name="Hunting"/>
+    </type>
 
-<type name="Asmond_Suppressor_Pistol_Tan">
+    <type name="Asmond_Suppressor_Pistol_Tan">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -3966,7 +4039,7 @@
         <usage name="Police"/>
     </type>
 
-<type name="Asmond_Optic_PSO1_Black">
+    <type name="Asmond_Optic_PSO1_Black">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
@@ -3979,7 +4052,7 @@
         <usage name="Military"/>
     </type>
 
-<type name="Asmond_Optic_PSO11_Black">
+    <type name="Asmond_Optic_PSO11_Black">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -3993,7 +4066,7 @@
         <value name="Tier3"/>
     </type>
 
-<type name="Asmond_Optic_Reflex_Black">
+    <type name="Asmond_Optic_Reflex_Black">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -4006,7 +4079,7 @@
         <usage name="Military"/>
     </type>
 
-<type name="Asmond_Optic_Reflex_Tan">
+    <type name="Asmond_Optic_Reflex_Tan">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -4019,7 +4092,7 @@
         <usage name="Military"/>
     </type>
 
-<type name="Asmond_Optic_MK4_Winter">
+    <type name="Asmond_Optic_MK4_Winter">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
