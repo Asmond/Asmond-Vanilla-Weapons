@@ -413,7 +413,8 @@
 
     <type name="Asmond_UMP45_Sand">
 	<attachments chance="0.40">
-            <item name="Mag_UMP_25Rnd" chance="1.00"/>
+            <item name="Mag_UMP_25Rnd" chance="0.50"/>
+            <item name="Asmond_Mag_UMP_25Rnd_Sand" chance="0.50"/>
         </attachments>
         <attachments chance="0.70">
             <item name="ReflexOptic" chance="0.38"/>
@@ -428,7 +429,8 @@
 
     <type name="Asmond_UMP45_Green">
 	<attachments chance="0.40">
-            <item name="Mag_UMP_25Rnd" chance="1.00"/>
+            <item name="Mag_UMP_25Rnd" chance="0.50"/>
+            <item name="Asmond_Mag_UMP_25Rnd_Green" chance="0.50"/>
         </attachments>
         <attachments chance="0.70">
             <item name="ReflexOptic" chance="0.38"/>
@@ -458,7 +460,8 @@
 
     <type name="Asmond_UMP45_Winter">
 	<attachments chance="0.40">
-            <item name="Mag_UMP_25Rnd" chance="1.00"/>
+            <item name="Mag_UMP_25Rnd" chance="0.50"/>
+            <item name="Asmond_Mag_UMP_25Rnd_Winter" chance="0.50"/>
         </attachments>
         <attachments chance="0.70">
             <item name="ReflexOptic" chance="0.38"/>
@@ -538,6 +541,15 @@
     </type>
 
     <type name="Asmond_R12_RedWood">
+	<attachments chance="0.80">
+	<item name="UniversalLight" chance="1.00"/>
+	</attachments>
+	<attachments chance="0.30">
+	<item name="Asmond_Optic_Reflex_Black" chance="1.00"/>
+	</attachments>
+    </type>
+
+    <type name="Asmond_R12_SledgeHammer">
 	<attachments chance="0.80">
 	<item name="UniversalLight" chance="1.00"/>
 	</attachments>
@@ -1389,7 +1401,8 @@
 
     <type name="Asmond_SKS_Winter">
 	<attachments chance="0.10">
-	<item name="PUScopeOptic" chance="1.00"/>
+	<item name="PUScopeOptic" chance="0.50"/>
+	<item name="Asmond_Optic_PUScope_White" chance="0.50"/>
 	</attachments>
     </type>
 
@@ -1598,7 +1611,8 @@
         <item name="Mosin_Compensator" chance="0.50"/>
         </attachments>
         <attachments chance="0.50">
-        <item name="PUScopeOptic" chance="0.50"/>
+	    <item name="PUScopeOptic" chance="0.50"/>
+	    <item name="Asmond_Optic_PUScope_White" chance="0.50"/>
         </attachments>
     </type>
 
