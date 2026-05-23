@@ -1396,6 +1396,20 @@
         <value name="Tier3"/>
     </type>
 
+<type name="Asmond_M16A2_Green">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>30</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
+
 <type name="Asmond_M16A2_Tan">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
