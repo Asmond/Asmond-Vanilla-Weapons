@@ -1,4 +1,4 @@
-# Asmond – Vanilla Weapons
+# Asmond Vanilla Weapons
 
 **Asmond – Vanilla Weapons** adds **150+ custom-made retextures** to DayZ vanilla weapons, providing greater visual diversity and loot customization while preserving the original vanilla feel.
 
