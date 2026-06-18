@@ -1701,6 +1701,12 @@
         </attachments>
     </type>
 
+    <type name="Asmond_SSG82_Green">
+        <attachments chance="0.60">
+            <item name="Mag_SSG82_5Rnd" chance="1.00"/>
+        </attachments>
+    </type>
+
     <type name="Asmond_SV98_Black">
         <attachments chance="0.10">
             <item name="ACOGOptic" chance="0.60"/>
