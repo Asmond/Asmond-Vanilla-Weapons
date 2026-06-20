@@ -507,6 +507,9 @@
     <type name="Asmond_Izh18Shotgun_Black"/>
     <type name="Asmond_SawedoffIzh18Shotgun_Black"/>
 
+    <type name="Asmond_IZH43Shotgun_DarkWood"/>
+    <type name="Asmond_SawedoffIzh43Shotgun_DarkWood"/>
+
     <type name="Asmond_IZH43Shotgun_RedWood"/>
     <type name="Asmond_SawedoffIzh43Shotgun_RedWood"/>
 
