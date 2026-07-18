@@ -48,6 +48,7 @@ Asmond_P1_Wooden
 Asmond_P1_Black
 
 ################## SMGs ###########################
+Asmond_AKS74U_Desert
 Asmond_AKS74U_Black
 Asmond_AKS74U_Grey
 Asmond_AKS74U_Winter
@@ -116,7 +117,7 @@ Asmond_AK101_Winter
 ----------------------
 Asmond_AKM_Black
 Asmond_AKM_Camo
-Asmond_AKM_Grey
+Asmond_AKM_Brown
 Asmond_AKM_Winter
 ----------------------
 Asmond_ASVAL_Red
@@ -151,6 +152,9 @@ Asmond_M16A2_Tan
 Asmond_M16A2_Wooden
 Asmond_M16A2_Winter
 Asmond_M16A2_Camo
+----------------------
+Asmond_SCARH_Green
+Asmond_SCARH_Winter
 ----------------------
 Asmond_VSS_Black
 Asmond_VSS_Stalker
@@ -327,15 +331,21 @@ Asmond_MP5K_PlasticHndgrd_Sand
 Asmond_MP5K_PlasticHndgrd_Black
 Asmond_MP5K_RailHndgrd_Black
 Asmond_MP5K_RailHndgrd_Sand
+----------------------------
+Asmond_SCAR_PrecisionBttstck_Winter
 
 
 ############### MAGAZINES ################
+Asmond_Mag_M4A1_10Rnd_Black
 Asmond_Mag_M4A1_10Rnd_Tan
 Asmond_Mag_M4A1_10Rnd_Green
+Asmond_Mag_M4A1_20Rnd_Black
 Asmond_Mag_M4A1_20Rnd_Tan
 Asmond_Mag_M4A1_20Rnd_Green
+Asmond_Mag_M4A1_30Rnd_Black
 Asmond_Mag_M4A1_30Rnd_Tan
 Asmond_Mag_M4A1_30Rnd_Green
+Asmond_Mag_M4A1_40Rnd_Black
 Asmond_Mag_M4A1_40Rnd_Tan
 Asmond_Mag_M4A1_40Rnd_Green
 ----------------------------
