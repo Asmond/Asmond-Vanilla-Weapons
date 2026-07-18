@@ -610,7 +610,7 @@
 
     <type name="Asmond_AK74_Black">
         <attachments chance="1.00">
-	<item name="Asmond_AK_WoodBttstock_LightWood" chance="1.00"/>
+	<item name="Asmond_AK_WoodBttstck_LightWood" chance="1.00"/>
         </attachments>
         <attachments chance="1.00">
 	<item name="Asmond_AK_WoodHndgrd_LightWood" chance="1.00"/>
