@@ -1021,9 +1021,10 @@
 
     <type name="Asmond_AUG_Black">
        <attachments chance="0.25">
-        <item name="Mag_Aug_30Rnd" chance="0.50"/>
+        <item name="Mag_Aug_30Rnd" chance="0.25"/>
         <item name="Mag_CMAG_30Rnd" chance="0.25"/>
         <item name="Mag_CMAG_40Rnd" chance="0.25"/>
+        <item name="Asmond_Mag_M4A1_40Rnd_Black" chance="0.25"/>
         </attachments>
         <attachments chance="0.30">
 	<item name="BUISOptic" chance="0.25"/>
