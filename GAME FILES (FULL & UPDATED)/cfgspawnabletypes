@@ -6,6 +6,7 @@
 
    <type name="Asmond_Crossbow_Winter"/>
    <type name="Asmond_Crossbow_Camo"/>
+   <type name="Asmond_Crossbow_Green"/>
 
    <type name="Asmond_1911_Malvinas">
         <attachments chance="0.80">
@@ -1151,6 +1152,19 @@
 	<attachments chance="0.10">
         <item name="Asmond_Suppressor_NATO_Black" chance="1.00"/>
         </attachments>
+    </type>
+
+    <type name="Asmond_FAL_Camo">
+	<attachments chance="1.00">
+        <item name="Asmond_FAL_Buttstock_Camo" chance="1.00"/>
+        </attachments>
+        <attachments chance="0.50">
+        <item name="Asmond_Mag_FAL_20Rnd_Camo" chance="1.00"/>
+        </attachments>
+       	<attachments chance="0.20">
+        <item name="ACOGOptic_6x" chance="0.50"/>
+        <item name="ACOGOptic" chance="0.50"/>
+      	</attachments>
     </type>
 
     <type name="Asmond_FAL_DarkWood">
