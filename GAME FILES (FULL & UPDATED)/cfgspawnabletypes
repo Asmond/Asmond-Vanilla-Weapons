@@ -12,7 +12,7 @@
             <item name="Mag_1911_7Rnd" chance="1.00"/>
         </attachments>
         <attachments chance="1.00">
-            <item name="TLRLight" chance="1.00"/>
+            <item name="TLR" chance="1.00"/>
         </attachments>
         <attachments chance="1.00">
             <item name="PistolSuppressor" chance="1.00"/>
@@ -24,7 +24,7 @@
             <item name="Asmond_Mag_1911_7Rnd_Black" chance="1.00"/>
         </attachments>
         <attachments chance="0.10">
-            <item name="TLRLight" chance="1.00"/>
+            <item name="TLR" chance="1.00"/>
         </attachments>
         <attachments chance="0.10">
             <item name="PistolSuppressor" chance="0.50"/>
@@ -37,7 +37,7 @@
             <item name="Asmond_Mag_1911_7Rnd_Gold" chance="1.00"/>
         </attachments>
         <attachments chance="0.10">
-            <item name="TLRLight" chance="1.00"/>
+            <item name="TLR" chance="1.00"/>
         </attachments>
         <attachments chance="0.10">
             <item name="PistolSuppressor" chance="0.50"/>
@@ -53,7 +53,7 @@
             <item name="FNP45_MRDSOptic" chance="1.00"/>
         </attachments>
         <attachments chance="0.20">
-            <item name="TLRLight" chance="1.00"/>
+            <item name="TLR" chance="1.00"/>
         </attachments>
         <attachments chance="0.10">
             <item name="PistolSuppressor" chance="1.00"/>
@@ -68,7 +68,7 @@
             <item name="FNP45_MRDSOptic" chance="1.00"/>
         </attachments>
         <attachments chance="0.20">
-            <item name="TLRLight" chance="1.00"/>
+            <item name="TLR" chance="1.00"/>
         </attachments>
         <attachments chance="0.10">
             <item name="PistolSuppressor" chance="1.00"/>
@@ -114,7 +114,7 @@
             <item name="Asmond_Optic_MiniSight_Tan" chance="1.00"/>
         </attachments>
         <attachments chance="0.30">
-            <item name="TLRLight" chance="1.00"/>
+            <item name="TLR" chance="1.00"/>
         </attachments>
         <attachments chance="0.10">
             <item name="Asmond_Suppressor_Pistol_Tan" chance="1.00"/>
@@ -129,7 +129,7 @@
             <item name="Asmond_Optic_MiniSight_Black" chance="1.00"/>
         </attachments>
         <attachments chance="0.30">
-            <item name="TLRLight" chance="1.00"/>
+            <item name="TLR" chance="1.00"/>
         </attachments>
         <attachments chance="0.10">
             <item name="Asmond_Suppressor_Pistol_Black" chance="1.00"/>
@@ -144,7 +144,7 @@
             <item name="Asmond_Optic_MiniSight_Tan" chance="1.00"/>
         </attachments>
         <attachments chance="0.40">
-            <item name="TLRLight" chance="1.00"/>
+            <item name="TLR" chance="1.00"/>
         </attachments>
         <attachments chance="0.05">
             <item name="Asmond_Suppressor_Pistol_Tan" chance="1.00"/>
@@ -159,7 +159,7 @@
             <item name="FNP45_MRDSOptic" chance="1.00"/>
         </attachments>
         <attachments chance="0.40">
-            <item name="TLRLight" chance="1.00"/>
+            <item name="TLR" chance="1.00"/>
         </attachments>
         <attachments chance="0.05">
             <item name="PistolSuppressor" chance="1.00"/>
@@ -174,7 +174,7 @@
             <item name="FNP45_MRDSOptic" chance="1.00"/>
         </attachments>
         <attachments chance="0.40">
-            <item name="TLRLight" chance="1.00"/>
+            <item name="TLR" chance="1.00"/>
         </attachments>
         <attachments chance="0.05">
             <item name="PistolSuppressor" chance="1.00"/>
@@ -187,7 +187,7 @@
 	</attachments>
     </type>
 
-    <type name="Asmond_LongHorn_LightBrown">
+    <type name="Asmond_LongHorn_Brown">
         <attachments chance="1.00">
 	<item name="PistolOptic" chance="1.00"/>
 	</attachments>
@@ -216,6 +216,18 @@
         </attachments>
         <attachments chance="0.10">
             <item name="PistolSuppressor" chance="1.00"/>
+        </attachments>
+    </type>
+
+    <type name="Asmond_Luger_Beige">
+        <attachments chance="0.90">
+            <item name="Mag_Luger_8Rnd" chance="1.00"/>
+        </attachments>
+    </type>
+
+    <type name="Asmond_Luger_Gold">
+        <attachments chance="1.00">
+            <item name="Mag_Luger_8Rnd" chance="1.00"/>
         </attachments>
     </type>
 
@@ -261,6 +273,15 @@
         </attachments>
     </type>
 
+    <type name="Asmond_AKS74U_Camo">
+	<attachments chance="1.00">
+             <item name="Asmond_AK_WoodBttstck_CamoII" chance="1.00"/>
+        </attachments>
+        <attachments chance="0.40">
+             <item name="Asmond_Mag_AK74_30Rnd_Green" chance="1.00"/>
+        </attachments>
+    </type>
+
     <type name="Asmond_AKS74U_Grey">
     <attachments chance="1.00">
             <item name="Asmond_AK_WoodBttstck_DarkWood" chance="1.00"/>
@@ -300,6 +321,20 @@
     <type name="Asmond_AUGShort_Beige">
         <attachments chance="1.00">
             <item name="Mag_Aug_30Rnd" chance="1.00"/>
+        </attachments>
+    </type>
+
+    <type name="Asmond_MP18_Black">
+        <attachments chance="0.80">
+            <item name="Mag_Luger_8Rnd" chance="0.70"/>
+            <item name="Mag_MP18_Drum32Rnd" chance="0.30"/>
+        </attachments>
+    </type>
+
+    <type name="Asmond_MP18_Yellow">
+        <attachments chance="0.80">
+            <item name="Mag_Luger_8Rnd" chance="0.70"/>
+            <item name="Mag_MP18_Drum32Rnd" chance="0.30"/>
         </attachments>
     </type>
 
@@ -354,12 +389,12 @@
             <item name="PistolSuppressor" chance="1.00"/>
         </attachments>
     </type>
-    <type name="Asmond_MP5K_Light">
+    <type name="Asmond_MP5K_Wooden">
         <attachments chance="1.00">
-            <item name="MP5k_StockBttstck" chance="1.00"/>
+            <item name="Asmond_MP5K_Bttstck_Wooden" chance="1.00"/>
         </attachments>
         <attachments chance="1.00">
-            <item name="MP5_PlasticHndgrd" chance="1.00"/>
+            <item name="Asmond_MP5K_PlasticHndgrd_Wooden" chance="1.00"/>
         </attachments>
         <attachments chance="0.50">
             <item name="Mag_MP5_15Rnd" chance="0.60"/>
@@ -545,7 +580,7 @@
 
     <type name="Asmond_R12_Wooden">
 	<attachments chance="0.80">
-	<item name="UniversalLight" chance="1.00"/>
+	<item name="Universal" chance="1.00"/>
 	</attachments>
 	<attachments chance="0.30">
 	<item name="ReflexOptic" chance="1.00"/>
@@ -554,7 +589,7 @@
 
     <type name="Asmond_R12_RedWood">
 	<attachments chance="0.80">
-	<item name="UniversalLight" chance="1.00"/>
+	<item name="Universal" chance="1.00"/>
 	</attachments>
 	<attachments chance="0.30">
 	<item name="Asmond_Optic_Reflex_Black" chance="0.50"/>
@@ -564,7 +599,7 @@
 
     <type name="Asmond_R12_SledgeHammer">
 	<attachments chance="0.80">
-	<item name="UniversalLight" chance="1.00"/>
+	<item name="Universal" chance="1.00"/>
 	</attachments>
 	<attachments chance="0.50">
 	<item name="HoloOptic" chance="1.00"/>
@@ -581,6 +616,20 @@
         <item name="Mag_Saiga_Drum20Rnd" chance="0.10"/>
         </attachments>
     </type>
+
+    <type name="Asmond_SCARH_Camo">
+		<damage min="0.45" max="0.85" />
+		<attachments chance="1.00">
+			<item name="Asmond_SCAR_StockBttstck_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="0.33">
+			<item name="HoloOptic_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="0.60">
+			<item name="Mag_SCARH_20Rnd" chance="0.50" />
+			<item name="Asmond_Mag_SCARH_20Rnd_Camo" chance="0.50" />
+		</attachments>
+	</type>
 
     <type name="Asmond_SCARH_Green">
 		<damage min="0.45" max="0.85" />
@@ -610,13 +659,35 @@
 
     <type name="Asmond_AK74_Black">
         <attachments chance="1.00">
-	<item name="Asmond_AK_WoodBttstck_LightWood" chance="1.00"/>
+	<item name="Asmond_AK_WoodBttstck_Wood" chance="1.00"/>
         </attachments>
         <attachments chance="1.00">
-	<item name="Asmond_AK_WoodHndgrd_LightWood" chance="1.00"/>
+	<item name="Asmond_AK_WoodHndgrd_Wood" chance="1.00"/>
         </attachments>
         <attachments chance="0.70">
         <item name="Asmond_Mag_AK74_30Rnd_Black" chance="1.00"/>
+        </attachments>
+        <attachments chance="0.30">
+        <item name="PSO6Optic" chance="0.20"/>
+        <item name="Asmond_Optic_PSO1_Black" chance="0.20"/>
+        <item name="KobraOptic" chance="0.20"/>
+        <item name="KashtanOptic" chance="0.20"/>
+        <item name="PSO1Optic" chance="0.20"/>
+        </attachments>
+        <attachments chance="0.10">
+        <item name="AK_Bayonet" chance="1.00"/>
+        </attachments>
+    </type>
+
+    <type name="Asmond_AK74_Camo">
+        <attachments chance="1.00">
+	<item name="Asmond_AK_PlasticBttstck_CamoII" chance="1.00"/>
+        </attachments>
+        <attachments chance="1.00">
+	<item name="Asmond_AK_PlasticHndgrd_CamoII" chance="1.00"/>
+        </attachments>
+        <attachments chance="0.70">
+        <item name="Asmond_Mag_AK74_30Rnd_Green" chance="1.00"/>
         </attachments>
         <attachments chance="0.30">
         <item name="PSO6Optic" chance="0.20"/>
@@ -741,6 +812,48 @@
         </attachments>
     </type>
 
+    <type name="Asmond_AK101_Desert">
+   	<attachments chance="1.00">
+        <item name="Asmond_AK_PlasticBttstck_Desert" chance="1.00"/>
+        </attachments>
+        <attachments chance="1.00">
+        <item name="Asmond_AK_PlasticHndgrd_Desert" chance="1.00"/>
+        </attachments>
+        <attachments chance="0.80">
+        <item name="Asmond_Mag_AK101_30Rnd_Desert" chance="1.00"/>
+        </attachments>
+        <attachments chance="0.10">
+        <item name="PSO6Optic" chance="0.25"/>
+        <item name="KobraOptic" chance="0.25"/>
+        <item name="KashtanOptic" chance="0.25"/>
+        <item name="PSO1Optic" chance="0.25"/>
+        </attachments>
+        <attachments chance="0.20">
+        <item name="Asmond_Suppressor_EAST_Black" chance="1.00"/>
+        </attachments>
+    </type>
+
+    <type name="Asmond_AK101_Camo">
+   	<attachments chance="1.00">
+        <item name="Asmond_AK_PlasticBttstck_CamoII" chance="1.00"/>
+        </attachments>
+        <attachments chance="1.00">
+        <item name="Asmond_AK_PlasticHndgrd_CamoII" chance="1.00"/>
+        </attachments>
+        <attachments chance="0.80">
+        <item name="Asmond_Mag_AK101_30Rnd_Camo" chance="1.00"/>
+        </attachments>
+        <attachments chance="0.10">
+        <item name="PSO6Optic" chance="0.25"/>
+        <item name="KobraOptic" chance="0.25"/>
+        <item name="KashtanOptic" chance="0.25"/>
+        <item name="PSO1Optic" chance="0.25"/>
+        </attachments>
+        <attachments chance="0.20">
+        <item name="Asmond_Suppressor_EAST_Black" chance="1.00"/>
+        </attachments>
+    </type>
+
     <type name="Asmond_AK101_Winter">
    	<attachments chance="1.00">
         <item name="Asmond_AK_PlasticBttstck_Winter" chance="1.00"/>
@@ -849,10 +962,10 @@
 
     <type name="Asmond_AKM_Brown">
         <attachments chance="1.00">
-        <item name="Asmond_AK_WoodBttstck_LightBrown" chance="1.00"/>
+        <item name="Asmond_AK_WoodBttstck_Brown" chance="1.00"/>
         </attachments>
         <attachments chance="1.00">
-        <item name="Asmond_AK_WoodHndgrd_LightBrown" chance="1.00"/>
+        <item name="Asmond_AK_WoodHndgrd_Brown" chance="1.00"/>
         </attachments>
         <attachments chance="0.60">
         <item name="Mag_AKM_30Rnd" chance="1.00"/>
@@ -892,7 +1005,7 @@
 
     <type name="Asmond_ASVAL_Red">
         <attachments chance="1.00">
-            <item name="UniversalLight" chance="1.00"/>
+            <item name="Universal" chance="1.00"/>
         </attachments>
         <attachments chance="0.30">
             <item name="ReflexOptic" chance="0.38"/>
@@ -909,7 +1022,7 @@
 
     <type name="Asmond_ASVAL_Grey">
         <attachments chance="1.00">
-            <item name="UniversalLight" chance="1.00"/>
+            <item name="Universal" chance="1.00"/>
         </attachments>
         <attachments chance="0.30">
             <item name="ReflexOptic" chance="0.38"/>
@@ -925,7 +1038,7 @@
 
     <type name="Asmond_ASVAL_Moss">
         <attachments chance="1.00">
-            <item name="UniversalLight" chance="1.00"/>
+            <item name="Universal" chance="1.00"/>
         </attachments>
         <attachments chance="0.30">
             <item name="ReflexOptic" chance="0.38"/>
@@ -941,7 +1054,7 @@
 
     <type name="Asmond_ASVAL_Stalker">
         <attachments chance="1.00">
-            <item name="UniversalLight" chance="1.00"/>
+            <item name="Universal" chance="1.00"/>
         </attachments>
         <attachments chance="1.00">
             <item name="ReflexOptic" chance="1.00"/>
@@ -954,7 +1067,7 @@
 
     <type name="Asmond_ASVAL_Loner">
         <attachments chance="1.00">
-            <item name="UniversalLight" chance="1.00"/>
+            <item name="Universal" chance="1.00"/>
         </attachments>
         <attachments chance="1.00">
             <item name="Asmond_Optic_Reflex_Black" chance="1.00"/>
@@ -977,7 +1090,7 @@
 	<item name="ACOGOptic" chance="0.25"/>
 	</attachments>	
 	<attachments chance="0.10">
-	<item name="TLRLight" chance="1.00"/>
+	<item name="TLR" chance="1.00"/>
 	</attachments>
 	<attachments chance="0.10">
 	<item name="Asmond_Suppressor_NATO_Green" chance="1.00"/>
@@ -997,7 +1110,7 @@
 	<item name="ACOGOptic" chance="0.25"/>
 	</attachments>	
 	<attachments chance="0.10">
-	<item name="TLRLight" chance="1.00"/>
+	<item name="TLR" chance="1.00"/>
 	</attachments>
 	<attachments chance="0.10">
 	<item name="Asmond_Suppressor_NATO_Tan" chance="1.00"/>
@@ -1015,7 +1128,7 @@
 	<item name="ACOGOptic" chance="0.25"/>
 	</attachments>	
 	<attachments chance="0.10">
-	<item name="TLRLight" chance="1.00"/>
+	<item name="TLR" chance="1.00"/>
 	</attachments>
     </type>
 
@@ -1033,7 +1146,7 @@
 	<item name="ACOGOptic" chance="0.25"/>
         </attachments>
         <attachments chance="0.10">
-        <item name="TLRLight" chance="1.00"/>
+        <item name="TLR" chance="1.00"/>
         </attachments>
 	<attachments chance="0.10">
         <item name="Asmond_Suppressor_NATO_Black" chance="1.00"/>
@@ -1066,9 +1179,9 @@
       	</attachments>
     </type>
 
-    <type name="Asmond_FAL_LightWood">
+    <type name="Asmond_FAL_Wood">
 	<attachments chance="1.00">
-        <item name="Asmond_FAL_Buttstock_LightWood" chance="1.00"/>
+        <item name="Asmond_FAL_Buttstock_Wood" chance="1.00"/>
         </attachments>
         <attachments chance="0.50">
         <item name="Mag_FAL_20Rnd" chance="1.00"/>
@@ -1108,31 +1221,6 @@
         <item name="M4_T3NRDSOptic" chance="0.10"/>
         <item name="M68Optic" chance="0.10"/>
         <item name="ACOGOptic" chance="0.10"/>
-        </attachments>
-        <attachments chance="0.90">
-        <item name="Asmond_Mag_M4A1_10Rnd_Tan" chance="0.25"/>
-        <item name="Asmond_Mag_M4A1_20Rnd_Tan" chance="0.25"/>
-        <item name="Asmond_Mag_M4A1_30Rnd_Tan" chance="0.25"/>
-        <item name="Asmond_Mag_M4A1_40Rnd_Tan" chance="0.25"/>
-        </attachments>
-        <attachments chance="0.10">
-        <item name="M9A1_Bayonet" chance="1.00"/>
-        </attachments>
-	<attachments chance="0.10">
-	<item name="Asmond_Suppressor_NATO_Tan" chance="1.00"/>
-	</attachments>
-    </type>
-
-    <type name="Asmond_M4A1_Desert">
-        <attachments chance="1.00">
-        <item name="Asmond_M4_MPBttstck_Tan" chance="1.00"/>
-        </attachments>
-        <attachments chance="1.00">
-        <item name="Asmond_M4_MPHndgrd_Tan" chance="1.00"/>
-        </attachments>
-        <attachments chance="0.30">
-        <item name="Asmond_Optic_Reflex_Tan" chance="0.50"/>
-        <item name="HoloOptic" chance="0.50"/>
         </attachments>
         <attachments chance="0.90">
         <item name="Asmond_Mag_M4A1_10Rnd_Tan" chance="0.25"/>
@@ -1364,6 +1452,27 @@
     <type name="Asmond_IZH18Rifle_Brown"/>
     <type name="Asmond_SawedoffIzh18_Brown"/>
 
+	<type name="Asmond_LeeEnfield_Beige">
+		<damage min="0.45" max="0.65" />
+		<attachments chance="0.4">
+			<item name="Mag_LeeEnfield_10Rnd" chance="1.0" />
+		</attachments>
+	</type>
+
+	<type name="Asmond_LeeEnfield_Black">
+		<damage min="0.45" max="0.65" />
+		<attachments chance="0.4">
+			<item name="Mag_LeeEnfield_10Rnd" chance="1.0" />
+		</attachments>
+	</type>
+
+	<type name="Asmond_LeeEnfield_Yellow">
+		<damage min="0.45" max="0.65" />
+		<attachments chance="0.4">
+			<item name="Mag_LeeEnfield_10Rnd" chance="1.0" />
+		</attachments>
+	</type>
+
     <type name="Asmond_Repeater_Black"/>
     <type name="Asmond_Repeater_Wooden"/>
 
@@ -1398,16 +1507,13 @@
         </attachments>
     </type>
 
-    <type name="Asmond_SKS_Old">
-        <attachments chance="0.20">
-        <item name="SKS_Bayonet" chance="1.00"/>
-        </attachments>
-        <attachments chance="0.50">
-        <item name="PUScopeOptic" chance="1.00"/>
-        </attachments>
+    <type name="Asmond_SKS_Camo">
+	<attachments chance="0.10">
+	<item name="PUScopeOptic" chance="1.00"/>
+	</attachments>
     </type>
 
-    <type name="Asmond_SKS_Lightwood">
+    <type name="Asmond_SKS_Wood">
 	<attachments chance="0.10">
 	<item name="PUScopeOptic" chance="1.00"/>
 	</attachments>
@@ -1647,6 +1753,18 @@
     <type name="Asmond_SawedoffMosin9130_RedWood"/>
     <type name="Asmond_SawedoffMosin9130_Winter"/>
 
+    <type name="Asmond_Scout_Camo">
+	<attachments chance="0.50">
+            <item name="Mag_Scout_5Rnd" chance="1.00"/>
+        </attachments>
+        <attachments chance="0.60">
+	    <item name="Asmond_Optic_MK4_Winter" chance="0.20"/>
+            <item name="M68Optic" chance="0.20"/>
+            <item name="ACOGOptic" chance="0.20"/>
+            <item name="ACOGOptic_6x" chance="0.20"/>
+            <item name="MK4Optic_black" chance="0.20"/>
+        </attachments>
+    </type>
 
     <type name="Asmond_Scout_Grey">
 	<attachments chance="0.50">
