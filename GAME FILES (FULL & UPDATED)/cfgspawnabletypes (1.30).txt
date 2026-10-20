@@ -1867,11 +1867,22 @@
         </attachments>
     </type>
 
+    <type name="Asmond_SV98_Desert">
+        <attachments chance="0.10">
+            <item name="ACOGOptic" chance="0.60"/>
+            <item name="ACOGOptic_6x" chance="0.30"/>
+            <item name="MK4Optic_Tan" chance="0.10"/>
+        </attachments>
+        <attachments chance="0.10">
+            <item name="Mag_SV98_10Rnd" chance="1.00"/>
+        </attachments>
+    </type>
+
     <type name="Asmond_SV98_Winter">
         <attachments chance="0.10">
             <item name="ACOGOptic" chance="0.60"/>
             <item name="ACOGOptic_6x" chance="0.30"/>
-            <item name="MK4Optic_green" chance="0.10"/>
+            <item name="Asmond_Optic_MK4_Winter" chance="0.10"/>
         </attachments>
         <attachments chance="0.10">
             <item name="Mag_SV98_10Rnd" chance="1.00"/>
