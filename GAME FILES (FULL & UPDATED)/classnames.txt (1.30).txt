@@ -244,6 +244,7 @@ Asmond_SSG82_RedWood
 Asmond_SSG82_Green
 --------------------
 Asmond_SV98_Black
+Asmond_SV98_Desert
 Asmond_SV98_Winter
 Asmond_SV98_Wooden
 --------------------
