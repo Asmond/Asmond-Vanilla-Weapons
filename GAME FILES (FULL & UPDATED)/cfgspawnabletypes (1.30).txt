@@ -1279,10 +1279,10 @@
 
     <type name="Asmond_M4A1_Dark">
         <attachments chance="1.00">
-        <item name="Asmond_M4_MPBttstck_Grey" chance="1.00"/>
+        <item name="Asmond_M4_MPBttstck_Black" chance="1.00"/>
         </attachments>
         <attachments chance="1.00">
-        <item name="Asmond_M4_MPHndgrd_Grey" chance="1.00"/>
+        <item name="Asmond_M4_PlasticHndgrd_Black" chance="1.00"/>
         </attachments>
         <attachments chance="0.30">
         <item name="Asmond_Optic_Reflex_Black" chance="0.20"/>
